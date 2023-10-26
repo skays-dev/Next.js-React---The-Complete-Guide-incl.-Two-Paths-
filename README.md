@@ -7,8 +7,6 @@ Events Project
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Modules](#modules)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
