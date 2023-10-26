@@ -1,50 +1,20 @@
 # Project Name
 
-A brief description of your project and what it does.
+Events Project
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
+- [Installation](#installation)
+- [Modules](#modules)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
 
-Explain the purpose of your project and why it was created. Provide context and background information.
-
-## Getting Started
-
-Describe how to get your project up and running. Include any prerequisites and installation instructions.
-
-### Prerequisites
-
-List any software, tools, or dependencies that need to be installed or configured before using your project.
+Event project with NextJs and MongoDb
 
 ### Installation
-
-Provide step-by-step instructions on how to install and set up your project. You can include code snippets or commands if necessary.
-
-## Usage
-
-Explain how to use your project, including code examples and usage scenarios. You can also provide screenshots or links to live demos if applicable.
-
-## Contributing
-
-Explain how others can contribute to your project. You can include guidelines for submitting issues, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the [License Name](LICENSE) - describe the license and provide a link to the full license text.
-
----
-
-Feel free to customize this template with the specific details about your course and project. Once you've filled in the information, save it as "README.md" in your project's repository on GitHub.
-
-## Getting Started
 
 First, run the development server:
 
@@ -55,3 +25,39 @@ yarn dev
 # or
 pnpm dev
 ```
+
+## Modules
+
+What is NextJS? And why would you use it?
+
+Why is just React (in many cases) not enough?
+
+Creating NextJS projects from the ground up & understanding these projects
+
+Working with file-based routing
+
+Adding dynamic routes and catch-all routes
+
+Implementing different forms of page pre-rendering and server-side rendering
+
+Working with data and adding data fetching + pre-fetching to your apps
+
+Pre-generating dynamic and static pages
+
+Adding optimizations like metadata to pages
+
+Optimizing images with the NextJS Image component
+
+Building fullstack apps with API routes
+
+Managing app-wide state with React context (in NextJS apps)
+
+Adding authentication to NextJS apps
+
+Multiple complete apps where we'll apply all these core concepts!
+
+A complete React.js refresher module (so that we're all on the same page)
+
+A NextJS summary module so that you can refresh what you learned or just explore the core features quickly
+
+And much more!
