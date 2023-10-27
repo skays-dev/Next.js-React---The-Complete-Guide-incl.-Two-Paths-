@@ -6,6 +6,7 @@ Events Project
 
 - [Introduction](#introduction)
 - [Installation](#installation)
+- [Link](#link)
 - [Modules](#modules)
 
 ## Introduction
@@ -21,6 +22,10 @@ npm install
 # and
 npm run dev
 ```
+
+## Link
+
+<https://www.udemy.com/course/nextjs-react-the-complete-guide>
 
 ## Modules
 
